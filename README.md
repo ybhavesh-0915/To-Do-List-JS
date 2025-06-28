@@ -48,7 +48,7 @@ A clean, responsive, and interactive To-Do list web application that helps you s
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/ybhavesh-0915/new-To-Do-List.git
+git clone https://github.com/ybhavesh-0915/To-Do-List-JS.git
 cd new-To-Do-List
 ````
 
@@ -91,4 +91,4 @@ Made with ❤️ by [Bhavesh Yadav](https://github.com/ybhavesh-0915)
 
 ## 📄 License
 
-This project is licensed under the **MIT License** - feel free to use it!
+This project is licensed under the **MIT License**
